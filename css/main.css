@@ -105,5 +105,9 @@ body {
 }
 
 .control-heart {
+  font-size: .7em;
 
+  position: absolute;
+  right: 1.5em;
+  top: .2em;
 }
