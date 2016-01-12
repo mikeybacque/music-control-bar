@@ -62,6 +62,12 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
+
+  width: calc(100% - 3em) ;
 }
 
 /*
