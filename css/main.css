@@ -97,6 +97,11 @@ body {
 }
 
 .control-shuffle {
+  font-size: 0.5em;
+
+  position: absolute;
+  left: 3.8em;
+  top: 0;
 
 }
 
