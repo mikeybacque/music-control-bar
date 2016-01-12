@@ -101,7 +101,11 @@ body {
 }
 
 .control-list {
+  font-size: 1em;
 
+  position: absolute;
+  right: .2em;
+  top: 0;
 }
 
 .control-heart {
